@@ -11,3 +11,5 @@
 ## 5. Tech stack
 
 ## 6. Credits
+
+## 7. Further direction
