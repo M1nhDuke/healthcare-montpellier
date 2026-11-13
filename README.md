@@ -13,3 +13,5 @@
 ## 6. Credits
 
 ## 7. Further direction
+
+## 8. Random things during the development
